@@ -1,0 +1,2 @@
+# MyDirectory
+Core Code
